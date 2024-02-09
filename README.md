@@ -1,6 +1,6 @@
-## Eye Opener Shortcuts
+## REMINDERS If ever forgotten stuff
 
-## If ever forgotten stuff
+## Eye Opener Shortcuts
 
 ## For Building HTML File
 
